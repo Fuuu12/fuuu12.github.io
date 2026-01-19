@@ -17,4 +17,4 @@ Machine Learning; Video Understanding; Multi-Modal Fusion
 
 #### Learning materials
 
-You can access the following link for learning and discussion:[My link](https://github.com/Bitfy12/gitlearning)
+You can access the following link for learning and discussion: [My link](https://github.com/Bitfy12/gitlearning)
