@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/fuuu12-github-blue?logo=github)](https://github.com/fuuu12)
+[![Fuyu's Homepage](https://img.shields.io/badge/fuuu12-github-blue?logo=github)](https://github.com/fuuu12)
 
 He is currently a PhD candidate at the School of Optics and Photonics, Beijing Institute of Technology.
 
@@ -15,3 +15,6 @@ B.E., Computer Science and Technology, Beijing Institute of Technology, 2018—2
 #### Research Interests
 Machine Learning; Video Understanding; Multi-Modal Fusion
 
+#### Learning materials
+
+You can access the following link for learning and discussion:[My link](https://github.com/Bitfy12/gitlearning)

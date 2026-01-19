@@ -1,6 +1,6 @@
 #### Submitted
-
-- <strong>Fu Y</strong>, Yi W, Dong L, et al. From Spatio-Temporal to Frequency. <strong>With Editor</strong> [[Code]](https://github.com/Fuuu12/ViFi-Net)
+to be continued ...
+<!-- - <strong>Fu Y</strong>, Yi W, Dong L, et al. From Spatio-Temporal to Frequency. <strong>With Editor</strong> [[Code]](https://github.com/Fuuu12/ViFi-Net) -->
 
 #### Published
 
